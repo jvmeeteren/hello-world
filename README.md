@@ -3,6 +3,8 @@
 Web Design: CSS3
  | 
 Web Development: HTML5 and XHTML5
+ | 
+Web Development Subset: AMP
 
 
 Photography: Art, Nature, Urban
